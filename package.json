@@ -12,7 +12,8 @@
   "dependencies": {
     "education": "file:",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-scroll": "^1.9.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
